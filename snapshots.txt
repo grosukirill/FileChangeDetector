@@ -1,0 +1,3 @@
+src/files/test.jpg,fffeb81d
+src/files/test.py,938
+src/files/test.txt,44f
